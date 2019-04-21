@@ -1,10 +1,8 @@
-//cy16179 渡辺爽太　auto_repeat
+//auto_repeat
 /**
  * Sample driver for tact switch
  * File name: auto repeat
  * Target board: Armadillo 440
-
- * For Project-enshu 6 @ Shibaura Institute of Technology
  */
 #include <linux/module.h>
 #include <linux/kernel.h>
